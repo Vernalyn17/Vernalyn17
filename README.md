@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Vernalyn17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Vernalyn17/Vernalyn17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+<table>
+<tr>
+<th>Name Column</th>
+</tr>
+<tr>
+<td>Vernalyn Yebra</td>
+</tr>
+</table>
+</body>
+</html>
